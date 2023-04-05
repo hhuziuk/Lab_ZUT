@@ -1,5 +1,5 @@
 #pragma once
-#include "tree.h"
+#include "Tree.h"
 #include <vector>
 
 class Forest {
